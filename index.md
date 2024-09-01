@@ -17,3 +17,9 @@ Archie is my energetic mini Aussie who keeps me active for sure.
 ``` javascript
 var myVar = "Hello, My Name is Kate!";
 ```
+
+## My To-Do List
+
+- [ ] Finish homework for 504
+- [ ] Clean house
+- [ ] Feed the dog
